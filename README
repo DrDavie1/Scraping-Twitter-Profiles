@@ -1,0 +1,20 @@
+
+---------SCRAPING TWITTER USER DATA---------
+
+    Very similar code was used to complete a project on upwork in which all 400,000+ verified user details were scraped. 
+
+    -----PROJECT OVERVIEW----
+
+    Libraries Used:
+
+        - pandas
+        - tweepy
+        - snscrape
+
+    Skills shown: Data Extraction/Web Scraping
+
+    -----------Running information-----------
+
+    Simply change the username in set_variables.py and run in order:
+    - scrape_following 
+    - get_user_information
